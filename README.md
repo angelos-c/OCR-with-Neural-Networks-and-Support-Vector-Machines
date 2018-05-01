@@ -9,7 +9,7 @@ The project deals with creating NNs and SVMs to:
 - Differentiate between signatures of different individuals
 
 ------
-Copyright [2018] [Angelos Christidis]
+Copyright 2018 Angelos Christidis
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
